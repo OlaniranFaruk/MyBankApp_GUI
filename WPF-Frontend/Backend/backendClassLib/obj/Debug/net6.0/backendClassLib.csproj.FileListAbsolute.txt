@@ -1,0 +1,24 @@
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.csproj.AssemblyReference.cache
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.AssemblyInfoInputs.cache
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.AssemblyInfo.cs
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.csproj.CoreCompileInputs.cache
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\bin\Debug\net6.0\backendClassLib.deps.json
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\bin\Debug\net6.0\backendClassLib.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\bin\Debug\net6.0\backendClassLib.pdb
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\refint\backendClassLib.dll
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.pdb
+C:\DAMOLA\Year 3\Phase 1\C# .NET\Lab2\Code\Backend\backendClassLib\obj\Debug\net6.0\ref\backendClassLib.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\bin\Debug\net6.0\backendClassLib.deps.json
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\bin\Debug\net6.0\backendClassLib.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\bin\Debug\net6.0\backendClassLib.pdb
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.AssemblyInfo.cs
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\refint\backendClassLib.dll
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\backendClassLib.pdb
+C:\Users\User\OneDrive - Thomas More\DAMOLA\Year 3\Phase 1\C# .NET\MyBank\Backend\backendClassLib\obj\Debug\net6.0\ref\backendClassLib.dll
